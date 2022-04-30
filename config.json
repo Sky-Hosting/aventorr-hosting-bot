@@ -1,0 +1,71 @@
+{
+    "settings": {
+        "maintenance": false,
+        "nodeStatus": true,
+        "McScript": true,
+        "autoLeave": true,
+        "consoleSave": false,
+
+        "nodeStatusDelay": 15,
+        "vcUpdateInterval": 60,
+
+        "guildID": "954683505139408896",
+        "admin": ["918137699842555964"],
+
+        "statusOnMaintenance": "On Maintenance mode"
+    },
+
+    "logs":{
+        "dms": ""
+    },
+
+    "channelID": {
+        "legal":"",
+        "errorLog":"",
+        "welcome":"",
+        "bye":"",
+        "abuse": "",
+        "ticketChannel": "",
+        "nodeStatus": "",
+        "suggestions": "",
+        "analyse": ""
+    },
+
+    "voiceID": {
+        "members": "",
+        "clients": "",
+        "servers": ""
+    },
+    "parentID": {
+        "createAccount": "",
+        "ticketParent": ""
+    },
+    "roleID": {
+        "staff": "",
+        "member": "",
+        "betatester": "",
+        "client": "",
+        "administrator": ""
+    },
+
+    "fastify": {
+        "port": 69
+    },
+    
+    "bot":{
+        "token": "",
+        "prefix": "!"
+    },
+
+    "pterodactyl": {
+        "myIp": "ur ip",
+        "host": "https://example.com",
+        "adminApiKey": "",
+        "clientAPI":""
+    },
+    "nginxPM": {
+        "host": "",
+        "email": "",
+        "pass": ""
+    }
+}
