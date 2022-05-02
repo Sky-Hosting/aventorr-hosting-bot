@@ -15,7 +15,7 @@ module.exports = async (client, message, args) => {
                     await message.channel.send({embeds:[embed]})
                 } else {
 
-                    message.channel.send('Checking server `' + server + '`\nPlease wait, it wont take more that 10 seconds').then((msg) => {
+                    message.channel.send('Checking server `' + server + '`\nPlease wait, it won\'t take more that 10 seconds').then((msg) => {
                         axios({
                             url: config.pterodactyl.host + "/api/application/users/" + userData.get(message.author.id).consoleID + "?include=servers",
                             method: 'GET',
@@ -32,7 +32,7 @@ module.exports = async (client, message, args) => {
             
                             setTimeout(async () => {
                                 if (!output) {
-                                    msg.edit(':x: | Sorry but i didnt find that server in your list!')
+                                    msg.edit(':x: | Sorry but i didn\'t find that server in your list!')
                                 } else {
         
                                     if (output.attributes.user === userData.get(message.author.id).consoleID) {
@@ -290,7 +290,7 @@ module.exports = async (client, message, args) => {
                                                     new Discord.MessageEmbed()
                                                     .setTitle(`:x: | You are not the owner`)
                                                     .setColor(`RED`)
-                                                    .setDescription(`If you are the owner of this server, that means that the api key that u gave to the bot is invalid.\n \`sv!config\` for remaking the configuration`)
+                                                    .setDescription(`If you are the owner of this server, that means that the api key that you gave to the bot is invalid.\n \`sv!config\` for remaking the configuration`)
                                                 ]})
                                             }else{
                                                 msg.edit({embeds:[
@@ -302,7 +302,7 @@ module.exports = async (client, message, args) => {
                                             }
                                         })
                                     }else{
-                                        msg.edit(':x: | Sorry but i didnt find that server in your list!')
+                                        msg.edit(':x: | Sorry but i didn\'t find that server in your list!')
                                     }
                                 }
                             },2000)
