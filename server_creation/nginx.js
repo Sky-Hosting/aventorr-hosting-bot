@@ -2,10 +2,10 @@ module.exports = (userID, serverName, location) => {
     return {
         "name": serverName,
         "user": userID,
-        "nest": 5,
-        "egg": 17,
-        "docker_image": "ghcr.io/parkervcp/yolks:java_16",
-        "startup": "java -Dterminal.jline=false -Dterminal.ansi=true -jar {{JARFILE}}",
+        "nest": 7,
+        "egg": 27,
+        "docker_image": "registry.gitlab.com/tenten8401/pterodactyl-nginx",
+        "startup": "{{STARTUP_CMD}}",
         "limits": {
             "memory": 0,
             "swap": 0,
@@ -14,11 +14,11 @@ module.exports = (userID, serverName, location) => {
             "cpu": 0
         },
         "environment": {
-            "JARFILE": "sneakyhub.jar"
+            "STARTUP_CMD": "./start.sh"
         },
         "feature_limits": {
-            "databases": 1,
-            "allocations": 2,
+            "databases": 0,
+            "allocations": 1,
             "backups": 0
         },
         "deploy": {

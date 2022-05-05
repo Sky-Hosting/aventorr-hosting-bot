@@ -8,18 +8,18 @@ module.exports = (userID, serverName, location) => {
         "docker_image": "quay.io/parkervcp/pterodactyl-images:db_mariadb",
         "startup": "{ /usr/sbin/mysqld & } && sleep 5 && mysql -u root",
         "limits": {
-            "memory": 1024,
+            "memory": 0,
             "swap": 0,
-            "disk": 3072,
+            "disk": 1024,
             "io": 500,
             "cpu": 0
         },
         "environment": {
 
         },
-        "feature_limits": {
+ "feature_limits": {
             "databases": 0,
-            "allocations": 1,
+            "allocations": 2,
             "backups": 0
         },
         "deploy": {

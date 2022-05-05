@@ -70,7 +70,7 @@ module.exports = async (client, message, args) => {
     let msg = await message.channel.send(`Proxying . . .`)
 
     domainIP = await getDomainIP(domain)
-    if(!domainIP || domainIP !== '5.196.239.157') return msg.edit(`The domain you gave doesnt have the right ip address. the ip should be: \`5.196.239.157\` *without cloudflare proxy turned on*`)
+    if(!domainIP || domainIP !== '108.61.117.230') return msg.edit(`The domain you gave doesnt have the right ip address. the ip should be: \`108.61.117.230\` *without cloudflare proxy turned on*`)
 
     msg.edit(`Creating LetsEncrypt certificate, this might take some time.`)
     let proxyinfo = await proxyDomain(domain, localdomain, port)

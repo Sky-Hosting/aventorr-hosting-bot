@@ -34,7 +34,7 @@ module.exports = async (client) => {
 
 
         await axios({
-            url: config.pterodactyl.host + '/api/client/servers/' + "5ef729a2" + "/resources",
+            url: config.pterodactyl.host + '/api/client/servers/' + "e4d1e546" + "/resources",
             method: 'GET',
             followRedirect: true,
             maxRedirects: 5,
@@ -48,9 +48,7 @@ module.exports = async (client) => {
                 name: "Panel",
                 status: true,
             }
-           
             
-       
             panel = {
                 name: "Panel",
                 status: false
@@ -65,8 +63,9 @@ module.exports = async (client) => {
         })
     })
       
-   // fastify.listen(8080, "0.0.0.0", (err, address) => {
-   //      if (err) throw err
-    //     console.log(`Listening to ${address}`);
-   // })
+    if(!config.settings.fastify) return
+    fastify.listen(3098, "0.0.0.0", (err, address) => {
+        if (err) throw err
+        console.log(`Listening to ${address}`);
+    })
 }

@@ -7,8 +7,8 @@ const ms = require('ms')
 module.exports = {
     name: "analyse",
     aliases: [''], 
-    async run(client, message, args){ 
-        if(!message.member.roles.cache.has(config.roleID.administrator) || message.channel.id !== config.channelID.analyse) return
+    async run(client, message, args){
+        if(!message.member.roles.cache.has(config.roleID.administrator) && message.channel.id !== config.channelID.analyse) return
         if(!args[0]) return message.channel.send(`you stupid... chose a number: !analyse <ammount to show> <obtional: ram/cpu/disk> `)
         let sortby
 
@@ -19,7 +19,7 @@ module.exports = {
         let msg
         let start = Date.now()
         await axios({
-            url: config.pterodactyl.host+"/api/application/nodes/" + "1" + "?include=servers,location,allocations",
+            url: config.pterodactyl.host+"/api/application/nodes/" + config.node.one + "?include=servers,location,allocations",
             method: 'GET',
             followRedirect: true,
             maxRedirects: 5,

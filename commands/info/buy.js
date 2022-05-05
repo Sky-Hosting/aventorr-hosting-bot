@@ -3,14 +3,14 @@ module.exports = {
     aliases: [], 
     async execute(client, message, args, Discord){
         return
-        //if(!args[0]) return message.channel.send(`Corect command format: \`!buy server\``)
+        //if(!args[0]) return message.channel.send(`Corect command format: \`ah!buy server\``)
         args[0].some(x => x === '1')
         if(args[0] === "server"){
             if(!userServers.get(message.author.id)) return message.channel.send({embeds:[
                 new Discord.MessageEmbed()
                 .setTitle(`:x: | Error`)
                 .setColor(`RED`)
-                .setDescription(":x: You dont have an account created. type `!user new` to create one")
+                .setDescription(":x: You dont have an account created. type `AH!user new` to create one")
             ]})
             message.channel.send({embeds:[
                 new Discord.MessageEmbed()
