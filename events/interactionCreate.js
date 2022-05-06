@@ -1,4 +1,5 @@
 const Discord = require('discord.js')
+const config = require('../config.json');
 const wait = require('node:timers/promises').setTimeout;
 module.exports = async (client, interaction) => {
     if(interaction.message.channelId === config.channelID.interactionsChannel && interaction.customId === 'CreateTicket'){
