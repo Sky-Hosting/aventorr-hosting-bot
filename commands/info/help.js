@@ -8,7 +8,7 @@ module.exports = {
             .setTitle(`❓ | Need help?`)
             .setColor(`#677bf9`)
             .addField(`**Pterodactyl commands:**`, `!user\n!server`, true)
-            .addField(`**Info:**`, `!ping\n!invites\n!help`, true)
+            .addField(`**Info:**`, `!ping\n!invites\n!help\n!links`, true)
         ]})
     }
 }

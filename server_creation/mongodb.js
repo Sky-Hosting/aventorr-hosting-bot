@@ -12,7 +12,7 @@ module.exports = (userID, serverName, location) => {
     return {
         "name": serverName,
         "user": userID,
-        "nest": 6,
+        "nest": 5,
         "egg": 19,
         "docker_image": "ghcr.io/parkervcp/yolks:mongodb_4",
         "startup": "mongod --fork --dbpath /home/container/mongodb/ --port ${SERVER_PORT} --bind_ip 0.0.0.0 --logpath /home/container/logs/mongo.log; until nc -z -v -w5 127.0.0.1 ${SERVER_PORT}; do echo 'Waiting for mongodb connection...'; sleep 5; done && mongo 127.0.0.1:${SERVER_PORT} && mongo --eval \"db.getSiblingDB('admin').shutdownServer()\" 127.0.0.1:${SERVER_PORT}",

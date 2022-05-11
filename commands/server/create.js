@@ -76,6 +76,7 @@ module.exports = async (client, message, args) => {
                 > **User ID:** \`${userData.get(message.author.id).consoleID}\`
                 > **Server Name:** \`${srvname ? srvname : args[1]}\`
                 > **Server Type:** \`${args[1].toLowerCase()}\`
+                > *Note:** \`**DO NOT USE JAVA TO RUN GAMESERVERS.** \
                 `)
             ]
         })

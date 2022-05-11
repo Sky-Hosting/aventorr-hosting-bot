@@ -3,7 +3,7 @@ module.exports = (userID, serverName, location) => {
         "name": serverName,
         "user": userID,
         "nest": 7,
-        "egg": 27,
+        "egg": 20,
         "docker_image": "registry.gitlab.com/tenten8401/pterodactyl-nginx",
         "startup": "{{STARTUP_CMD}}",
         "limits": {

@@ -3,7 +3,7 @@ module.exports = (userID, serverName, location) => {
     return {
         "name": serverName,
         "user": userID,
-        "nest": 6,
+        "nest": 5,
         "egg": 18,
         "docker_image": "quay.io/parkervcp/pterodactyl-images:db_mariadb",
         "startup": "{ /usr/sbin/mysqld & } && sleep 5 && mysql -u root",

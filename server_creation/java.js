@@ -2,7 +2,7 @@ module.exports = (userID, serverName, location) => {
     return {
         "name": serverName,
         "user": userID,
-        "nest": 5,
+        "nest": 6,
         "egg": 17,
         "docker_image": "ghcr.io/parkervcp/yolks:java_16",
         "startup": "java -Dterminal.jline=false -Dterminal.ansi=true -jar {{JARFILE}}",

@@ -2,12 +2,13 @@ const config = require('../config.json')
 const pinger = require('minecraft-pinger')
 const wait = require('node:timers/promises').setTimeout;
 const axios = require('axios')
+const chalk = require('chalk')
 const Discord = require('discord.js')
 module.exports = async (client) => {
     if(!config.settings.McScript) return
 
     async function runeverything () {
-        console.log("Minecraft Port Checker started :D")
+        console.log(`${chalk.blue('[ Security ]')}`+" Minecraft Port Checker started :D")
         let data = (await axios({
             url: config.pterodactyl.host+"/api/application/nodes/" + config.node.one + "?include=servers,allocations",
             method: 'GET',
@@ -27,7 +28,7 @@ module.exports = async (client) => {
             await wait(3000)
             let allocation = allocations.find(all => all.attributes.id === server.attributes.allocation)
 
-            let mc = await pinger.pingPromise('94.130.100.10', allocation.attributes.port).catch(()=>{})
+            let mc = await pinger.pingPromise('45.76.151.180', allocation.attributes.port).catch(()=>{})
             if(mc) {
 
                 let user = (await axios({
@@ -41,7 +42,7 @@ module.exports = async (client) => {
                         'Accept': 'Application/vnd.pterodactyl.v1+json',
                     }
                 }).catch(err => {}))?.data
-
+                console.log(`${chalk.red('[ Security ]')} Minecraft server found on port ${chalk.bold(`${allocation.attributes.port}`)}, Server ID: ${chalk.bold(`${server.attributes.uuid?.split('-')[0]}`)}, Discord ID: ${chalk.bold(`${userData.all().find(x => JSON.parse(x.data).consoleID === user?.attributes.id)}`)}`)
                 await client.channels.cache.get(config.channelID.abuse).send({
                     embeds:[
                         new Discord.MessageEmbed()

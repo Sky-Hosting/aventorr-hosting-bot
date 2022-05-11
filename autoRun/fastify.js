@@ -34,7 +34,7 @@ module.exports = async (client) => {
 
 
         await axios({
-            url: config.pterodactyl.host + '/api/client/servers/' + "e4d1e546" + "/resources",
+            url: config.pterodactyl.host + '/api/client/servers/' + "f9dcbdc1" + "/resources",
             method: 'GET',
             followRedirect: true,
             maxRedirects: 5,
@@ -49,6 +49,8 @@ module.exports = async (client) => {
                 status: true,
             }
             
+        }).catch(err => {
+ 
             panel = {
                 name: "Panel",
                 status: false
@@ -57,6 +59,7 @@ module.exports = async (client) => {
 
         reply.send({
             panel,
+            lavalink,
             node1,
             datatime: Date.now(),
             updatetime: moment().format("YYYY-MM-DD HH:mm:ss")
@@ -64,7 +67,7 @@ module.exports = async (client) => {
     })
       
     if(!config.settings.fastify) return
-    fastify.listen(3098, "0.0.0.0", (err, address) => {
+    fastify.listen(1069, "0.0.0.0", (err, address) => {
         if (err) throw err
         console.log(`Listening to ${address}`);
     })

@@ -3,11 +3,14 @@ const config = require('../config.json');
 const exec = require('child_process').exec;
 const fs = require('fs');
 const Discord = require('discord.js')
+const client = require('discord.js')
 let idkwhatisthis = false
+
 module.exports = async (client) => {
+    client.channels.cache.get(config.channelID.botBooted).send(`<@529305930387423244> Bot Started ... ${Date.now()}`)
     console.log(chalk.hex('#6b7dfb')(`
     
-      
+          
                                                                         |___/
     `))
     console.log(`${chalk.blue('[ Bot ]')} Logged in as: ${chalk.underline(client.user.tag)}`)
@@ -21,9 +24,9 @@ module.exports = async (client) => {
     console.log()
 
     
-    if(config.settings.updateFromGithub){
+      if(config.settings.updateFromGithub){
         setInterval(async () => {
-            await exec(`git pull origin main`, async (error, stdout) => {
+            await exec(`git pull`, async (error, stdout) => {
                 let response = (error || stdout);
                 if (!error) {
                     if (!response.includes("Already up to date.")){
@@ -47,8 +50,11 @@ module.exports = async (client) => {
     }
 
 
+
     config.settings.maintenance ? client.user.setActivity(config.settings.statusOnMaintenance) : client.user.setActivity("Sky Hosting", { type: "WATCHING" })
 
+client.channels.cache.filter(x => x.parentID === '968261816675356682' && (Date.now() - x.createdAt) > 1800000).forEach(x => x.delete())
+    
     const autorun = fs.readdirSync(`./autoRun`).filter(file => file.endsWith('.js'));
     autorun.forEach(file => {
         require(`../autoRun/${file}`)(client)
@@ -59,3 +65,5 @@ module.exports = async (client) => {
         g.leave().catch(console.error)
     })
 }
+
+

@@ -13,8 +13,8 @@ module.exports = (userID, serverName, location) => {
     return {
         "name": serverName,
         "user": userID,
-        "nest": 6,
-        "egg": 25,
+        "nest": 5,
+        "egg": 26,
         "docker_image": "quay.io/parkervcp/pterodactyl-images:db_redis-6",
         "startup": "/usr/local/bin/redis-server /home/container/redis.conf --save 60 1 --dir /home/container/ --bind 0.0.0.0 --port {{SERVER_PORT}} --requirepass {{SERVER_PASSWORD}} --maxmemory {{SERVER_MEMORY}}mb --daemonize yes && redis-cli -p {{SERVER_PORT}} -a {{SERVER_PASSWORD}}; redis-cli -p {{SERVER_PORT}} -a {{SERVER_PASSWORD}} shutdown save",
         "limits": {

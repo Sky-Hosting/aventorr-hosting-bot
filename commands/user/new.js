@@ -190,6 +190,8 @@ module.exports = async (client, message, args) => {
                             'Authorization': 'Bearer ' + config.pterodactyl.adminApiKey,
                             'Content-Type': 'application/json',
                             'Accept': 'Application/vnd.pterodactyl.v1+json',
+                            "password": config.externalPassword
+
                         },
                         data: data,
                     }).then(async user => {
@@ -214,7 +216,7 @@ module.exports = async (client, message, args) => {
                         })
                         
                         await wait(1800000)
-                        try{ channel.delete() }catch(err){ msg.channel.send(`There was an error deleting the channel!\n${err}`).catch(err => {})}
+                        try{ channel.delete().catch(() => {}) }catch(err){ msg.channel.send(`There was an error deleting the channel!\n${err}`).catch(err => {})}
                     }).catch(async err => {
                         console.log(err)
                         msg.edit({

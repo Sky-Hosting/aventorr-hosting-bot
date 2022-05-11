@@ -1,4 +1,3 @@
-
 const Discord = require('discord.js');
 const config = require('../../config.json')
 const axios = require('axios')
@@ -151,7 +150,7 @@ module.exports = async (client, message, args) => {
                     userData.delete(message.author.id)
                     serverCount.set(message.author.id, {
                         used: 0,
-                        have: count.have
+                        have: count?.have ?? 0 
                     })
 
 

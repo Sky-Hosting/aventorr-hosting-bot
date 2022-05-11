@@ -1,4 +1,5 @@
 const config = require('../config.json')
+const ms = require("ms")
 module.exports = (client) => {
     const invites = new Map();
 
@@ -40,6 +41,21 @@ module.exports = (client) => {
             ]
 
             var wtl = Math.floor(Math.random() * welcometext.length);
+            if (Date.now() - member.user.createdAt < ms(config.settings.minimumaccage)) {
+                await member.send(`You seem to be an alt, thats why i have been kicked you :)\nIf you want to appeal for this, email \`mail@skyhosting.digital\``).catch(err => {})
+                member.kick().catch(err => {client.channels.cache.get(config.channelID.altDetection).send(`ERROR KICKING: ${member.user}`)})
+                logChannel.send(`${member.user},you have been kicked bc of covid bozo`)
+                client.channels.cache.get(config.channelID.altDetection).send({embeds:[
+                    new Discord.MessageEmbed()
+                    .setTitle(` account detected!`)
+                    .setDescription(`**Username:** ${member.user.username}\n`
+                    +`**ID:** ${member.user.id}\n`
+                    +`**Account Age:** ${member?.user?.createdTimestamp} (${require('pretty-ms')(Date.now() - member.user?.createdAt ?? 0)})\n`
+                    +`**Invited by:** ${inviter?.tag} (${inviter?.id})`
+                    )
+                ]})
+                return
+            }
 
             if(inviter){
                 logChannel.send(`Welcome <@${member.user.id}>, ${welcometext[wtl]}\n(invited by: \`${inviter.tag}\`)`)

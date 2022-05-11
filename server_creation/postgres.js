@@ -12,8 +12,8 @@ module.exports = (userID, serverName, location) => {
     return {
         "name": serverName,
         "user": userID,
-        "nest": 6,
-        "egg": 21,
+        "nest": 5,
+        "egg": 22,
         "docker_image": "quay.io/parkervcp/pterodactyl-images:db_postgres",
         "startup": "postgres  -D /home/container/postgres_db/",
         "limits": {

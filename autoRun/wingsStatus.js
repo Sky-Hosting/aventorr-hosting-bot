@@ -25,7 +25,7 @@ module.exports = async (client) => {
             panel = "🟢 Online"
 
             await axios({
-                url: config.pterodactyl.host + '/api/client/servers/' + "e4d1e546" + "/resources",
+                url: config.pterodactyl.host + '/api/client/servers/' + "c6b5f0c2" + "/resources",
                 method: 'GET',
                 followRedirect: true,
                 maxRedirects: 5,

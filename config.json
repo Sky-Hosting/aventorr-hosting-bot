@@ -1,18 +1,37 @@
 {
+    "externalPassword": "",
+
     "settings": {
         "maintenance": false,
         "nodeStatus": true,
         "McScript": true,
         "autoLeave": true,
-        "consoleSave": false,
+        "consoleSave": true,
+        "updateFromGithub": false,
+        "fastify": false,
 
         "nodeStatusDelay": 15,
         "vcUpdateInterval": 60,
 
-        "guildID": "954683505139408896",
-        "admin": ["918137699842555964"],
+        "guildID": "",
+        "admin": [""],
+        "avoidServerPorts": ["27030"], 
 
-        "statusOnMaintenance": "On Maintenance mode"
+        "statusOnMaintenance": "On Maintenance mode",
+        
+        "interactions": {
+            "createTicket": true,
+            "developer": true,
+            "staff": true
+        }
+    },
+
+
+    "minimumaccage": "69 years",
+
+    "antiraid": {
+        "maxmentions": 10,
+        "timeoutfor": 69696969
     },
 
     "logs":{
@@ -25,10 +44,15 @@
         "welcome":"",
         "bye":"",
         "abuse": "",
-        "ticketChannel": "",
+        "interactionsChannel": "",
         "nodeStatus": "",
         "suggestions": "",
-        "analyse": ""
+        "analyse": "",
+        "github": "",
+        "altDetection": "",
+        "raidmentions": "",
+        "botBooted": "",
+        "TRANSCRIPTSID": ""
     },
 
     "voiceID": {
@@ -38,18 +62,28 @@
     },
     "parentID": {
         "createAccount": "",
-        "ticketParent": ""
+        "ticketParent": "",
+        "applyDeveloper": "",
+        "applyStaff": ""
     },
+
+
     "roleID": {
         "staff": "",
+        "support": "",
         "member": "",
-        "betatester": "",
+      "betatester": "",
         "client": "",
-        "administrator": ""
+        "administrator": "",
+        "everyone": ""
     },
 
     "fastify": {
-        "port": 69
+        "port": 3098
+    },
+    
+     "node": {
+        "one": "1"
     },
     
     "bot":{
@@ -58,8 +92,8 @@
     },
 
     "pterodactyl": {
-        "myIp": "ur ip",
-        "host": "https://example.com",
+        "myIp": "",
+        "host": "https://panel.skyhosting.digital",
         "adminApiKey": "",
         "clientAPI":""
     },

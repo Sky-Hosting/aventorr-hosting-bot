@@ -2,8 +2,8 @@ module.exports = (userID, serverName, location) => {
     return {
         "name": serverName,
         "user": userID,
-        "nest": 5,
-        "egg": 23,
+        "nest": 6,
+        "egg": 24,
         "docker_image": "quay.io/parkervcp/pterodactyl-images:bot_red",
         "startup": "PATH=$PATH:/home/container/.local/bin redbot pterodactyl --token {{TOKEN}} --prefix {{PREFIX}}",
         "limits": {

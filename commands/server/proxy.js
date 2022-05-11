@@ -3,6 +3,8 @@ const config = require('../../config.json')
 const axios = require('axios')
 const { getDomainIP, proxyDomain, findProxy, deleteProxy } = require(`../../nginxPM/index`)
 module.exports = async (client, message, args) => {
+    
+    
     let port
     let localdomain
     let serverid = args[1]
@@ -102,4 +104,5 @@ module.exports = async (client, message, args) => {
             msg.edit(`There was an error proxying your domain. Error: ${proxyinfo.message}`)
         }
     }
+    
 }
