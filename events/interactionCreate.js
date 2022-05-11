@@ -1,4 +1,5 @@
 const Discord = require('discord.js')
+const config = require('../config.json');
 const wait = require('node:timers/promises').setTimeout;
 const config = require('../config.json');
 module.exports = async (client, interaction) => {
