@@ -1,5 +1,6 @@
 const config = require("../config.json")
 const wait = require('node:timers/promises').setTimeout;
+const lib = require(`${process.cwd()}/lib`)
 module.exports = async (client, message) => {
     if(message.author?.bot) return
     if(message.channel.type == "DM") return client.channels.cache.get(config.logs.dms).send(`${message.author.tag} (${message.author.id}): ${message.content}`)
@@ -26,14 +27,14 @@ module.exports = async (client, message) => {
                 if(!args[0]) return require('../commands/user/help.js')(client, message, args)
                 await console.log(`[# ${message.channel.name}]  ${message.author.tag} (${message.author.id}): ${message?.content}`)
                 require(`../commands/user/${args[0]}.js`)(client, message, args)
-            }catch(err){console.log(err).toString()}
+            }catch(err){lib.consoleLogError({ message: `${err} `})}
             return
         }else if(cmd === 'server'){
             try{
                 if(!args[0]) return require('../commands/server/help.js')(client, message, args)
                 await console.log(`[# ${message.channel.name}]  ${message.author.tag} (${message.author.id}): ${message?.content}`)
                 require(`../commands/server/${args[0]}.js`)(client, message, args)
-            }catch(err){console.log(err).toString()}
+            }catch(err){lib.consoleLogError({ message: `${err} `})}
             return
         }else if(cmd === 'staff'){
             if(!message.member.roles.cache.has(config.roleID.staff)) return
@@ -41,7 +42,7 @@ module.exports = async (client, message) => {
                 if(!args[0]) return require('../commands/staff/help.js')(client, message, args)
                 await console.log(`[# ${message.channel.name}]  ${message.author.tag} (${message.author.id}): ${message?.content}`)
                 require(`../commands/staff/${args[0]}.js`)(client, message, args)
-            }catch(err){console.log(err).toString()}
+            }catch(err){lib.consoleLogError({ message: `${err} `})}
             return
         }
 
