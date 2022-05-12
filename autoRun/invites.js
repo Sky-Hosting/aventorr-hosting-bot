@@ -1,5 +1,6 @@
 const config = require('../config.json')
 const ms = require("ms")
+const lib = require(`${process.cwd()}/lib`)
 module.exports = (client) => {
     const invites = new Map();
 
@@ -43,7 +44,7 @@ module.exports = (client) => {
             var wtl = Math.floor(Math.random() * welcometext.length);
             if (Date.now() - member.user.createdAt < ms(config.settings.minimumaccage)) {
                 await member.send(`You seem to be an alt, thats why i have been kicked you :)\nIf you want to appeal for this, email \`mail@skyhosting.digital\``).catch(err => {})
-                member.kick().catch(err => {client.channels.cache.get(config.channelID.altDetection).send(`ERROR KICKING: ${member.user}`)})
+                member.kick().catch(err => {lib.consoleLogError({ message: `Error kicking user ${member}`, location: "invites.js" })})
                 logChannel.send(`${member.user},you have been kicked bc of covid bozo`)
                 client.channels.cache.get(config.channelID.altDetection).send({embeds:[
                     new Discord.MessageEmbed()
