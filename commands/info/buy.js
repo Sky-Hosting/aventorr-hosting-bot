@@ -1,9 +1,9 @@
 module.exports = {
-    // name: "buy",
+    name: "buy",
     aliases: [], 
-    async execute(client, message, args, Discord){
+    async run(client, message, args, Discord){
         return
-        //if(!args[0]) return message.channel.send(`Corect command format: \`ah!buy server\``)
+        if(!args[0]) return message.channel.send(`Corect command format: \`ah!buy server\``)
         args[0].some(x => x === '1')
         if(args[0] === "server"){
             if(!userServers.get(message.author.id)) return message.channel.send({embeds:[
