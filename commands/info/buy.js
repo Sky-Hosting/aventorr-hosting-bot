@@ -1,7 +1,9 @@
+const Discord = require('discord.js');
+
 module.exports = {
     name: "buy",
     aliases: [], 
-    async run(client, message, args, Discord){
+    async run(client, message, args){
         return
         if(!args[0]) return message.channel.send(`Corect command format: \`ah!buy server\``)
         args[0].some(x => x === '1')
