@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 module.exports = async (client, message, args) => {
 
     let user = message.mentions.users.first() ? message.mentions.users.first() : client.users.cache.get(args[1]) ? client.users.cache.get(args[1]) : client.users.cache.get(message.author.id);
-    if(!user) return message.channel.send(`This should not happend :/`);
+    if(!user) return message.channel.send(`An error has occured reported it to a developer immediately`);
 
     if(!serverCount.get(user.id)) {
         await serverCount.set(user.id, {

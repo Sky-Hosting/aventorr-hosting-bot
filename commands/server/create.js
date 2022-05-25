@@ -20,8 +20,11 @@ module.exports = async (client, message, args) => {
         const noTypeListed = new Discord.MessageEmbed() 
             .setTitle(`Types of servers you can create: `)
             .setColor(`#677bf9`)
-            .setFooter({text: `example: !server create NodeJS Discord Bot`})
-            .addField(`<:arrow_blue:957264701409087558>**__Discord Bots__**:   `, `>>>NodeJS\nPython\nJava\nRedBot`, true)
+            .setDescription(`Usage: !server create <Server Type> [Server Name]\nExample: !server create NodeJS Discord Bot`)
+            .addField(`<:arrow_blue:957264701409087558>**__Backend__**:   `, `>>> Java`, true)
+            .addField(`<:arrow_blue:957264701409087558>**__Frontend__**:   `, `>>> Python`, true)
+            .addField(`<:arrow_blue:957264701409087558>**__Frontend and Backend__**:   `, `>>> NodeJS`, true)
+            .addField(`<:arrow_blue:957264701409087558>**__Discord Bots__**:   `, `>>> RedBot`, true)
             .addField(`<:arrow_blue:957264701409087558>**__Databases__**:   `, `>>> MongoDB\nRedis5\nRedis6\nMariaDB\nPostGres`, true)
             .addField(`<:arrow_blue:957264701409087558>**__Softwares__**:   `, `>>> CodeServer\nHaste`, true)
 

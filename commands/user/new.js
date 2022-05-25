@@ -42,7 +42,7 @@ module.exports = async (client, message, args) => {
             new Discord.MessageEmbed()
             .setTitle(`Welcome to Sky Hosting`)
             .setColor(`#677bf9`)
-            .setDescription(`In order to continue, please read our terms of serverice and privacy policy that are located [here](https://skyhosting.digital/tos) or in the channel ${client.channels.cache.get(config.channelID.legal)}.\n\nYou are allowed to continue creating your account and use our servicies only if you accept our terms of service and privacy policy\n\nDo you accept our legal?`)
+            .setDescription(`In order to continue, please read our terms of service and privacy policy that is located [here](https://skyhosting.digital/tos) or in the channel ${client.channels.cache.get(config.channelID.legal)}.\n\nYou are allowed to continue creating your account and use our servicies only if you accept our terms of service and privacy policy\n\nDo you accept our legal?`)
             .setFooter({text:`This message expires in 5 minutes`})
         ],
         components:[
@@ -83,7 +83,7 @@ module.exports = async (client, message, args) => {
             return
         }
         if(reason === 'RejectLegal'){
-            channel.send(':x: Without accepting our legal, we will now allow you to create an account and use our servicies')
+            channel.send(':x: Without accepting our legal, we will now allow you to create an account and use our services')
             await wait(5000)
             try{ channel.delete() }catch(err){}
             return
@@ -96,7 +96,7 @@ module.exports = async (client, message, args) => {
             msg.edit({
                 embeds:[
                     new Discord.MessageEmbed()
-                    .setTitle(`❓ What is your email adress? (should be valid)`)
+                    .setTitle(`❓ What is your email address? (should be valid)`)
                     .setColor(`YELLOW`)
                     .setFooter({text:`Type "cancel" to stop the process of creating your account`})
                 ],
@@ -165,7 +165,7 @@ module.exports = async (client, message, args) => {
                     if(!username || !email) return msg.edit({
                         embeds:[
                             new Discord.MessageEmbed()
-                            .setTitle(`:x: Something wierd happend...`)
+                            .setTitle(`:x: Error`)
                             .setColor(`RED`)
                             .setDescription(`Error: The email or username cache did not save any record!`)
                         ]

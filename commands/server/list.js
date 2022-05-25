@@ -32,8 +32,9 @@ module.exports = async (client, message, args) => {
                 message.reply({
                     embeds:[
                         new Discord.MessageEmbed()
-                        .setTitle(`:x: | HOW MANY SERVERS DO U HAVE???`)
+                        .setTitle(`:x: | An error has occured.`)
                         .setDescription(`${err}`)
+                        .setFooter({ text: `Please report this immediately` })
                         .setColor(`RED`)
                     ]
                 })

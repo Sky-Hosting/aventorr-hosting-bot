@@ -3,13 +3,13 @@ const Discord = require('discord.js');
 const axios = require('axios');
 module.exports = async (client, message, args) => {
     if(!userData.get(message.author.id)) return message.reply(":x: You dont have an account created. type `!user new` to create one")
-    if(!args[1]) return message.reply(`:x: What server should i delete? please provide you server id *(!server delete <server id>)*`)
+    if(!args[1]) return message.reply(`:x: What server should I delete? please provide you server id \`!server delete <server id>\``)
     if (args[1].match(/[0-9a-z]+/i) == null)
-        return message.channel.send("lol only use english characters.");
+        return message.channel.send("Only use English Characters.");
 
     args[1] = args[1].split('-')[0];
 
-    let msg = await message.channel.send('Let me check if this is your server, please wait . . .')
+    let msg = await message.channel.send('Verifying is you own the server...')
 
     axios({
         url: config.pterodactyl.host + "/api/application/users/" + userData.get(message.author.id).consoleID + "?include=servers",
@@ -55,7 +55,7 @@ module.exports = async (client, message, args) => {
             Collector.stop()
             if(i.customId === "AcceptDelete") {
                 msg.edit({
-                    content: `Deleting, please wait . . .`,
+                    content: `Deleting server, please wait . . .`,
                 })
 
                 axios({
