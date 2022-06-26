@@ -4,7 +4,6 @@ const wait = require('node:timers/promises').setTimeout;
 const axios = require('axios')
 const chalk = require('chalk')
 const Discord = require('discord.js')
-const lib = require(`${process.cwd()}/lib`)
 module.exports = async (client) => {
     if(!config.settings.McScript) return
 
@@ -20,7 +19,7 @@ module.exports = async (client) => {
                 'Content-Type': 'application/json',
                 'Accept': 'Application/vnd.pterodactyl.v1+json',
             }
-        }).catch(() => {return lib.consoleLogError({ message: 'Unable to access information about servers and allocations.', location: 'autoRun/Node1_McChecher.js' })}))?.data.attributes.relationships
+        }).catch(() => {return console.log('uhhh- something is happening with the pannel and i cant get information about the servers and allocations')}))?.data.attributes.relationships
 
         let allocations = data.allocations.data
         let servers = data.servers.data.filter(server => !config.settings.avoidServerPorts.includes(allocations.find(allocation => allocation.attributes.id === server.attributes.allocation)?.attributes.port))

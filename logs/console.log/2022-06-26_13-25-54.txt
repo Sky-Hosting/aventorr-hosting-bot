@@ -1,0 +1,23 @@
+[38;2;107;125;251m[39m
+[38;2;107;125;251m    [39m
+[38;2;107;125;251m          [39m
+[38;2;107;125;251m                                                                        |___/[39m
+[38;2;107;125;251m    [39m
+[94m[ Bot ][39m Logged in as: [4mSky Hosting#4458[24m
+[94m[ Bot ][39m Save Console: [32mtrue[39m
+[94m[ Bot ][39m Node Status: [31mfalse[39m
+[94m[ Bot ][39m Fastify host: [32mtrue[39m
+[94m[ Bot ][39m Maintenance mode: [32mtrue [39m
+[94m[ Bot ][39m Auto Leave Guilds: [32mtrue[39m
+[94m[ Bot ][39m Minecraft Port Checker: [31mfalse[39m
+[94m[ Bot ][39m Update files from Github: [31mfalse[39m
+
+[35m[ Web Server ][39m Listening to http://0.0.0.0:1069
+[31m[ DISCORD ][39m Hit a 429 while executing a request.
+    Global  : false
+    Method  : put
+    Path    : /guilds/954979563635609660/members/903735932195319818/roles/955010206050422794
+    Route   : /guilds/954979563635609660/members/:id/roles/:id
+    Limit   : 10
+    Timeout : 5050ms
+    Sublimit: None

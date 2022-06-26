@@ -1,0 +1,28 @@
+[38;2;107;125;251m[39m
+[38;2;107;125;251m    [39m
+[38;2;107;125;251m          [39m
+[38;2;107;125;251m                                                                        |___/[39m
+[38;2;107;125;251m    [39m
+[94m[ Bot ][39m Logged in as: [4mSky Hosting#4458[24m
+[94m[ Bot ][39m Save Console: [32mtrue[39m
+[94m[ Bot ][39m Node Status: [31mfalse[39m
+[94m[ Bot ][39m Fastify host: [32mtrue[39m
+[94m[ Bot ][39m Maintenance mode: [32mtrue [39m
+[94m[ Bot ][39m Auto Leave Guilds: [32mtrue[39m
+[94m[ Bot ][39m Minecraft Port Checker: [31mfalse[39m
+[94m[ Bot ][39m Update files from Github: [31mfalse[39m
+
+[35m[ Web Server ][39m Listening to http://0.0.0.0:1069
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server create-donor forge
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server delete 665ad5c7
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server list
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server delete 0c16de21
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server delete 785c9b31
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server delete e79c33d6
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server delete 6823f24e
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server create-donor forge
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server delete 68403b02
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server create-donor paper
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server delete 90a9b89a
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server create-donor s3
+[# 🤖┊bot-cmds-stuff]  The Amazon Guy👑#1834 (529305930387423244): !server proxy a6685b32 skybot.cf
