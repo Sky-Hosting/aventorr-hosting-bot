@@ -6,6 +6,7 @@ const db = require('quick.db');
 
 const client = new Discord.Client({ intents: new Discord.Intents(32767), partials: ['MESSAGE', 'CHANNEL', 'REACTION'] });
 console.log("index runing . . .")
+module.exports  = client;
 client.snipes = new Discord.Collection();
 client.commands = new Discord.Collection();
 client.events = new Discord.Collection();

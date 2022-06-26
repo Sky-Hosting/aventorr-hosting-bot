@@ -3,6 +3,7 @@ const pretty = require('prettysize');
 const format = require('format-duration')
 const Discord = require('discord.js')
 const config = require('../../config.json')
+const lib = require(`${process.cwd()}/lib`)
 module.exports = async (client, message, args) => {
     if(!userData.get(message.author.id)) return message.reply(":x: You dont have an account created. type `!user new` to create one")
     args = args.slice(1)
@@ -278,7 +279,7 @@ module.exports = async (client, message, args) => {
                                             })
                                             
                                         }).catch(error => {
-                                            console.log(error + '')
+                                            lib.consoleLogError({ message: `${error} `, location: 'commands/server/status.js' })
                                             if(error == 'Error: Request failed with status code 404'){
                                                 msg.edit({embeds:[
                                                     new Discord.MessageEmbed()
