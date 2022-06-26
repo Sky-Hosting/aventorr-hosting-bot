@@ -1,0 +1,14 @@
+
+## installed modules
+node_modules
+
+### config file
+config.json
+
+
+## logs files
+logs
+
+
+## database
+json.sqlite
