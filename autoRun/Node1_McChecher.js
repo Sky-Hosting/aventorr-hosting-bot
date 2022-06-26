@@ -28,7 +28,7 @@ module.exports = async (client) => {
             await wait(3000)
             let allocation = allocations.find(all => all.attributes.id === server.attributes.allocation)
 
-            let mc = await pinger.pingPromise('45.76.151.180', allocation.attributes.port).catch(()=>{})
+            let mc = await pinger.pingPromise('94.130.100.10', allocation.attributes.port).catch(()=>{})
             if(mc) {
 
                 let user = (await axios({

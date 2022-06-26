@@ -4,7 +4,7 @@ module.exports = (userID, serverName, location) => {
         "user": userID,
         "nest": 7,
         "egg": 20,
-        "docker_image": "registry.gitlab.com/tenten8401/pterodactyl-nginx",
+        "docker_image": "ghcr.io/finnie2006/nginx-ptero:composer",
         "startup": "{{STARTUP_CMD}}",
         "limits": {
             "memory": 0,
@@ -18,11 +18,11 @@ module.exports = (userID, serverName, location) => {
         },
         "feature_limits": {
             "databases": 0,
-            "allocations": 1,
+            "allocations": 0,
             "backups": 0
         },
         "deploy": {
-            "locations": [location],
+            "locations": location,
             "dedicated_ip": false,
             "port_range": []
         },

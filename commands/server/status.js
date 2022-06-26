@@ -106,7 +106,7 @@ module.exports = async (client, message, args) => {
                                                     .addComponents(
                                                         new Discord.MessageButton()
                                                         .setLabel('🔗 Link')
-                                                        .setURL(`https://panel.skyhosting.digital/server/${server}`)
+                                                        .setURL(`https://panel.skyhosting.org/server/${server}`)
                                                         .setStyle('LINK'),
                                                     )
                                                 ]})
@@ -254,7 +254,7 @@ module.exports = async (client, message, args) => {
                                                             .addComponents(
                                                                 new Discord.MessageButton()
                                                                 .setLabel('🔗 Link')
-                                                                .setURL(`https://panel.skyhosting.digital/server/${server}`)
+                                                                .setURL(`https://panel.skyhosting.org/server/${server}`)
                                                                 .setStyle('LINK')
                                                             )
                                                         ]

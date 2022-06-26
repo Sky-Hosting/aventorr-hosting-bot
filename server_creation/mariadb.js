@@ -17,13 +17,13 @@ module.exports = (userID, serverName, location) => {
         "environment": {
 
         },
- "feature_limits": {
+        "feature_limits": {
             "databases": 0,
-            "allocations": 2,
+            "allocations": 0,
             "backups": 0
         },
         "deploy": {
-            "locations": [location],
+            "locations": location,
             "dedicated_ip": false,
             "port_range": []
         },

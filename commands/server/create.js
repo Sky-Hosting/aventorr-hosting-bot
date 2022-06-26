@@ -11,7 +11,7 @@ module.exports = async (client, message, args) => {
         
         const panelButton = new Discord.MessageButton()
         .setStyle('LINK')
-        .setURL('https://panel.skyhosting.digital')
+        .setURL('https://panel.skyhosting.org')
         .setLabel("Panel")
         
         const row = new Discord.MessageActionRow()
@@ -21,9 +21,11 @@ module.exports = async (client, message, args) => {
             .setTitle(`Types of servers you can create: `)
             .setColor(`#677bf9`)
             .setFooter({text: `example: !server create NodeJS Discord Bot`})
-            .addField(`<:arrow_blue:957264701409087558>**__Discord Bots__**:   `, `>>>NodeJS\nPython\nJava\nRedBot`, true)
-            .addField(`<:arrow_blue:957264701409087558>**__Databases__**:   `, `>>> MongoDB\nRedis5\nRedis6\nMariaDB\nPostGres`, true)
-            .addField(`<:arrow_blue:957264701409087558>**__Softwares__**:   `, `>>> CodeServer\nHaste`, true)
+            .addField(`**__Discord Bots__**:   `, `>>> NodeJS\nPython\nJava\nRedBot\n aio`, true)
+            .addField(`**__Databases__**:   `, `>>> MongoDB\nRedis5\nRedis6\nMariaDB\nPostGres`, true)
+            .addField(`**__Softwares__**:   `, `>>> CodeServer\nHaste\n Nginx\n php`, true)
+            .addField(`**__Voice Servers__**:   `, `>>> TS3\n Mumble,`, true)
+
 
         message.channel.send({
             content: `> :x: What type of server you want me to create?`,
@@ -36,7 +38,7 @@ module.exports = async (client, message, args) => {
     if(!serverCount.get(message.author.id)) {
         serverCount.set(message.author.id, {
             used: 0,
-            have: 3,
+            have: 1,
         })
     }else if(serverCount.get(message.author.id).used >= serverCount.get(message.author.id).have) return message.reply(`:x: You already used your all server slots. For more info run: !server count`)
 
@@ -44,7 +46,7 @@ module.exports = async (client, message, args) => {
     let srvname = args.slice(2).join(' ')
 
     try{
-        ServerData = require(`../../server_creation/${args[1]?.toLowerCase()}.js`)(userData.get(message.author.id).consoleID, srvname ? srvname : args[1], 1)
+        ServerData = require(`../../server_creation/${args[1]?.toLowerCase()}.js`)(userData.get(message.author.id).consoleID, srvname ? srvname : args[1], config.settings.serverCreation)
     }catch(err){
         message.reply(`:x: I could no find any server type with the name: \`${args[1]}\`\nType \`!server create list\` for more info`)
         return
@@ -76,7 +78,7 @@ module.exports = async (client, message, args) => {
                 > **User ID:** \`${userData.get(message.author.id).consoleID}\`
                 > **Server Name:** \`${srvname ? srvname : args[1]}\`
                 > **Server Type:** \`${args[1].toLowerCase()}\`
-                > *Note:** \`**DO NOT USE JAVA TO RUN GAMESERVERS.** \
+                > **Note:** **\DO NOT USE JAVA TO RUN GAMESERVERS. \**
                 `)
             ]
         })

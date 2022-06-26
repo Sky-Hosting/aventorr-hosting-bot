@@ -1,5 +1,6 @@
 const config = require('../config.json')
-const ms = require("ms")
+const Discord= require ('discord.js')
+const ms = require('ms')
 module.exports = (client) => {
     const invites = new Map();
 
@@ -29,34 +30,20 @@ module.exports = (client) => {
 
 
     client.on("guildMemberAdd", async (member) => {
+        const logChannel = member.guild.channels.cache.find(c => c.id === config.channelID.welcome);
         member.roles.add(member.guild.roles.cache.get(config.roleID.member))
         member.guild.invites.fetch().then(async (newInvites) => {
             const oldInvites = invites.get(member.guild.id);
             const invite = newInvites.find(i => i.uses > oldInvites.get(i.code));
             const inviter = client.users.cache.get(invite?.inviter.id);
-            const logChannel = member.guild.channels.cache.find(c => c.id === config.channelID.welcome);
 
             welcometext = [
                 `Welcome to Sky Hosting`
             ]
 
             var wtl = Math.floor(Math.random() * welcometext.length);
-            if (Date.now() - member.user.createdAt < ms(config.settings.minimumaccage)) {
-                await member.send(`You seem to be an alt, thats why i have been kicked you :)\nIf you want to appeal for this, email \`mail@skyhosting.digital\``).catch(err => {})
-                member.kick().catch(err => {client.channels.cache.get(config.channelID.altDetection).send(`ERROR KICKING: ${member.user}`)})
-                logChannel.send(`${member.user},you have been kicked bc of covid bozo`)
-                client.channels.cache.get(config.channelID.altDetection).send({embeds:[
-                    new Discord.MessageEmbed()
-                    .setTitle(` account detected!`)
-                    .setDescription(`**Username:** ${member.user.username}\n`
-                    +`**ID:** ${member.user.id}\n`
-                    +`**Account Age:** ${member?.user?.createdTimestamp} (${require('pretty-ms')(Date.now() - member.user?.createdAt ?? 0)})\n`
-                    +`**Invited by:** ${inviter?.tag} (${inviter?.id})`
-                    )
-                ]})
-                return
-            }
 
+           
             if(inviter){
                 logChannel.send(`Welcome <@${member.user.id}>, ${welcometext[wtl]}\n(invited by: \`${inviter.tag}\`)`)
                 invitedBy.set(member.user.id, {

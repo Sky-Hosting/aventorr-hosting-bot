@@ -1,21 +1,11 @@
 module.exports = (userID, serverName, location) => {
-
-    let getPassword = () => {
-        const CAPSNUM = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
-        var password = "";
-        while (password.length < 10) {
-            password += CAPSNUM[Math.floor(Math.random() * CAPSNUM.length)];
-        }
-        return password;
-    };
-
     return {
         "name": serverName,
         "user": userID,
         "nest": 7,
-        "egg": 15,
-        "docker_image": "ghcr.io/parkervcp/yolks:nodejs_17",
-        "startup": "sh .local/lib/code-server-{{VERSION}}/bin/code-server",
+        "egg": 48,
+        "docker_image": "quay.io/yajtpg/pterodactyl-images:php-8.1",
+        "startup": "/start.sh",
         "limits": {
             "memory": 0,
             "swap": 0,
@@ -24,8 +14,7 @@ module.exports = (userID, serverName, location) => {
             "cpu": 0
         },
         "environment": {
-            "PASSWORD": `${getPassword()}`,
-            "VERSION": "latest"
+            "STARTUP_CMD": "php index.php"
         },
         "feature_limits": {
             "databases": 0,

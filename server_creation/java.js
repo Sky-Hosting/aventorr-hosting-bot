@@ -17,12 +17,12 @@ module.exports = (userID, serverName, location) => {
             "JARFILE": "sneakyhub.jar"
         },
         "feature_limits": {
-            "databases": 1,
-            "allocations": 2,
+            "databases": 0,
+            "allocations": 0,
             "backups": 0
         },
         "deploy": {
-            "locations": [location],
+            "locations": location,
             "dedicated_ip": false,
             "port_range": []
         },

@@ -19,13 +19,13 @@ module.exports = (userID, serverName, location) => {
             "BOT_PY_FILE": "bot.py",
             "REQUIREMENTS_FILE": "requirements.txt"
         },
- "feature_limits": {
-            "databases": 1,
-            "allocations": 2,
+        "feature_limits": {
+            "databases": 0,
+            "allocations": 0,
             "backups": 0
         },
         "deploy": {
-            "locations": [location],
+            "locations": location,
             "dedicated_ip": false,
             "port_range": []
         },

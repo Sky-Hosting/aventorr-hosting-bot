@@ -1,5 +1,4 @@
 const Discord = require('discord.js')
-const config = require('../config.json');
 const wait = require('node:timers/promises').setTimeout;
 const config = require('../config.json');
 module.exports = async (client, interaction) => {
@@ -89,7 +88,7 @@ module.exports = async (client, interaction) => {
             new Discord.MessageEmbed()
             .setTitle(`${interaction.user.username}'s Channel`)
             .setColor(`BLUE`)
-            .setDescription(`Hi, we are happy to hear that you want to apply for volunteer developing in Sky Hosting. Firstly to apply we need to know some informations about you:\n\n> 1. What is your name\n> 2. What is you Contact Email\n> 3. What code languages do you know\n> 4. do you have any projecs that are you proud of?\n> 5. any other details\n\nAt the end please wait untill artiom's responce \\:) ty`)
+            .setDescription(`Hi, we are happy to hear that you want to apply for volunteer developing in Sky Hosting. Firstly to apply we need to know some informations about you:\n\n> 1. What is your name\n> 2. What is you Contact Email\n> 3. What code languages do you know\n> 4. do you have any projecs that are you proud of?\n> 5. any other details\n\nAt the end please wait untill amazon's responce \\:) ty`)
             .setFooter({text:`Please do not ping/ghost ping! | interact with "🔒" to close the ticket`})
             ],
             components: [
@@ -141,7 +140,7 @@ module.exports = async (client, interaction) => {
             new Discord.MessageEmbed()
             .setTitle(`${interaction.user.username}'s Ticket`)
             .setColor(`BLUE`)
-            .setDescription(`u sure u want to apply? \:D`)
+            .setDescription(`Please fill this out\n\n Do you have expirence \n Streangths/n Weekness\n How after are you 1-10`)
             .setFooter({text:`Please do not ping/ghost ping! | interact with 🔒 to close the ticket`})
             ],
             components: [

@@ -1,6 +1,7 @@
 const axios = require('axios');
 const { getKey } = require("./getKey")
 const config = require('../config.json')
+const chalk = require('chalk')
 
 const proxyDomain = async (domain, ip, port) => {
     try {
@@ -21,7 +22,7 @@ const proxyDomain = async (domain, ip, port) => {
                 "access_list_id": "0",
                 "certificate_id": "new",
                 "meta": {
-                    "letsencrypt_email": "aidanw0320@gmail.com",
+                    "letsencrypt_email": "aidanw0320@yahoo.com",
                     "letsencrypt_agree": true,
                     "dns_challenge": false
                 },

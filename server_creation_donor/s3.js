@@ -2,20 +2,19 @@ module.exports = (userID, serverName, location) => {
     return {
         "name": serverName,
         "user": userID,
-        "nest": 6,
-        "egg": 24,
-        "docker_image": "quay.io/parkervcp/pterodactyl-images:bot_red",
-        "startup": "PATH=$PATH:/home/container/.local/bin redbot pterodactyl --token {{TOKEN}} --prefix {{PREFIX}}",
+        "nest": 7,
+        "egg": 45,
+        "docker_image": "quay.io/parkervcp/pterodactyl-images:ubuntu",
+        "startup": "./minio.sh",
         "limits": {
-            "memory": 0,
+            "memory": 1024,
             "swap": 0,
-            "disk": 1024,
+            "disk": 3072,
             "io": 500,
             "cpu": 0
         },
         "environment": {
-            "TOKEN": "Your_bot_token_here",
-            "PREFIX": "."
+            "STARTUP_TYPE": "normal"
         },
         "feature_limits": {
             "databases": 0,

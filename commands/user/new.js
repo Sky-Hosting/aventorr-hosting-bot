@@ -42,7 +42,7 @@ module.exports = async (client, message, args) => {
             new Discord.MessageEmbed()
             .setTitle(`Welcome to Sky Hosting`)
             .setColor(`#677bf9`)
-            .setDescription(`In order to continue, please read our terms of serverice and privacy policy that are located [here](https://skyhosting.digital/tos) or in the channel ${client.channels.cache.get(config.channelID.legal)}.\n\nYou are allowed to continue creating your account and use our servicies only if you accept our terms of service and privacy policy\n\nDo you accept our legal?`)
+            .setDescription(`In order to continue, please read our terms of serverice and privacy policy that are located [here](https://skyhosting.org/terms) or in the channel ${client.channels.cache.get(config.channelID.legal)}.\n\nYou are allowed to continue creating your account and use our servicies only if you accept our terms of service and privacy policy\n\nDo you accept our legal?`)
             .setFooter({text:`This message expires in 5 minutes`})
         ],
         components:[
@@ -175,7 +175,7 @@ module.exports = async (client, message, args) => {
                         "username": username.toLowerCase(),
                         "email": email.toLowerCase(),
                         "first_name": username,
-                        "last_name": "user",
+                        "last_name": message.author.id,
                         "password": getPassword(),
                         "root_admin": false,
                         "language": "en"
@@ -211,7 +211,7 @@ module.exports = async (client, message, args) => {
                                 new Discord.MessageEmbed()
                                 .setTitle(`✅ Your account was successfully created`)
                                 .setColor(`#677bf9`)
-                                .setDescription(`Here are the account details:\n\n> panel link: ${config.pterodactyl.host}\n> email: \`${email}\`\n> username: \`${username}\`\n> password: || ${data.password} ||\n\nMake sure you will change your password *(after you login)* by accessing the top right account icon on the panel, from there you will have to type your curent password which is marked above and your new password.\n\n⚠️ *This channel will be deleted in 30 minues, make sure you saved your login data before the channel gets deleted*`)
+                                .setDescription(`Here are the account details:\n\n> panel link: ${config.pterodactyl.host}\n> email: \`${email}\`\n> username: \`${username}\`\n> password: || ${data.password} ||\n\nMake sure you will change your password *(after you login)* by accessing the top right account icon on the panel, from there you will have to type your curent password which is marked above and your new password.\n\n⚠️ *This channel will be deleted in 30 minues, make sure you saved your login data before the channel gets deleted*\n\n **MAKE SURE YOU DO !user link**`)
                             ]
                         })
                         

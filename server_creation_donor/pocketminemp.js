@@ -2,20 +2,19 @@ module.exports = (userID, serverName, location) => {
     return {
         "name": serverName,
         "user": userID,
-        "nest": 6,
-        "egg": 24,
-        "docker_image": "quay.io/parkervcp/pterodactyl-images:bot_red",
-        "startup": "PATH=$PATH:/home/container/.local/bin redbot pterodactyl --token {{TOKEN}} --prefix {{PREFIX}}",
+        "nest": 9,
+        "egg": 53,
+        "docker_image": "ghcr.io/parkervcp/yolks:debian",
+        "startup": "./bin/php7/bin/php ./PocketMine-MP.phar --no-wizard --disable-ansi",
         "limits": {
-            "memory": 0,
+            "memory": 3072,
             "swap": 0,
-            "disk": 1024,
+            "disk": 3072,
             "io": 500,
             "cpu": 0
         },
         "environment": {
-            "TOKEN": "Your_bot_token_here",
-            "PREFIX": "."
+            "PMMP_VERSION": "latest"
         },
         "feature_limits": {
             "databases": 0,
@@ -27,6 +26,7 @@ module.exports = (userID, serverName, location) => {
             "dedicated_ip": false,
             "port_range": []
         },
-        "start_on_completion": false
+        "start_on_completion": false,
+        "oom_disabled": false
     }
 }

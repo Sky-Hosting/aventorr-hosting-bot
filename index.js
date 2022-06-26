@@ -18,6 +18,8 @@ global.domains = new db.table("ProxiedDomains");
 
 require(`./handlers/event_handler`)(client);
 require(`./handlers/command_handler`)(client);
+//require(`./handlers/Anti-crash`)(client);
+
 
 if(config.settings.consoleSave) require(`./logs/console.log`)();
 

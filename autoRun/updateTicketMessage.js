@@ -8,7 +8,7 @@ module.exports = async (client) => {
         new Discord.MessageEmbed()
         .setTitle(`Interactions`)
         .setColor(`BLUE`)
-        .setDescription(`📩 - Create a ticket\n💻 - Apply for volunteer developer\n👨‍💼 - Apply staff`)
+        .setDescription(`📩 - Create a ticket\n💻 - Apply for developer\n👨‍💼 - Apply staff`)
     ]
 
     let ToSendComponents = [

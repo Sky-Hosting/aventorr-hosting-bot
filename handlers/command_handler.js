@@ -8,6 +8,7 @@ module.exports = async (client) =>{
                 client.commands.set(command.name, command);
             } else {
                 continue;
+                console.log(command)
             }
         }
     }

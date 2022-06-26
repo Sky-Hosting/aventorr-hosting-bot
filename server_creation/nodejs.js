@@ -18,13 +18,13 @@ module.exports = (userID, serverName, location) => {
             "AUTO_UPDATE": 0,
             "BOT_JS_FILE": "index.js"
         },
-  "feature_limits": {
-            "databases": 1,
-            "allocations": 2,
+        "feature_limits": {
+            "databases": 0,
+            "allocations": 0,
             "backups": 0
         },
         "deploy": {
-            "locations": [location],
+            "locations": location,
             "dedicated_ip": false,
             "port_range": []
         },

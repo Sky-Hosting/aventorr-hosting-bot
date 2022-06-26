@@ -1,21 +1,11 @@
 module.exports = (userID, serverName, location) => {
-
-    let getPassword = () => {
-        const CAPSNUM = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
-        var password = "";
-        while (password.length < 10) {
-            password += CAPSNUM[Math.floor(Math.random() * CAPSNUM.length)];
-        }
-        return password;
-    };
-
     return {
         "name": serverName,
         "user": userID,
-        "nest": 7,
-        "egg": 15,
-        "docker_image": "ghcr.io/parkervcp/yolks:nodejs_17",
-        "startup": "sh .local/lib/code-server-{{VERSION}}/bin/code-server",
+        "nest": 11,
+        "egg": 39,
+        "docker_image": "ghcr.io/pterodactyl/yolks:debian",
+        "startup": './ts3server default_voice_port={{SERVER_PORT}} query_port={{QUERY_PORT}} filetransfer_ip=0.0.0.0 filetransfer_port={{FILE_TRANSFER}} license_accepted=1',
         "limits": {
             "memory": 0,
             "swap": 0,
@@ -24,8 +14,9 @@ module.exports = (userID, serverName, location) => {
             "cpu": 0
         },
         "environment": {
-            "PASSWORD": `${getPassword()}`,
-            "VERSION": "latest"
+                "TS_VERSION": "latest",
+                "FILE_TRANSFER": "30033",
+                "QUERY_PORT": "10011"
         },
         "feature_limits": {
             "databases": 0,

@@ -53,7 +53,6 @@ module.exports = async (client) => {
 
     config.settings.maintenance ? client.user.setActivity(config.settings.statusOnMaintenance) : client.user.setActivity("Sky Hosting", { type: "WATCHING" })
 
-client.channels.cache.filter(x => x.parentID === '968261816675356682' && (Date.now() - x.createdAt) > 1800000).forEach(x => x.delete())
     
     const autorun = fs.readdirSync(`./autoRun`).filter(file => file.endsWith('.js'));
     autorun.forEach(file => {

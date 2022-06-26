@@ -34,7 +34,7 @@ module.exports = async (client, message) => {
                 await console.log(`[# ${message.channel.name}]  ${message.author.tag} (${message.author.id}): ${message?.content}`)
                 require(`../commands/server/${args[0]}.js`)(client, message, args)
             }catch(err){console.log(err).toString()}
-            return
+            return   
         }else if(cmd === 'staff'){
             if(!message.member.roles.cache.has(config.roleID.staff)) return
             try{
@@ -49,5 +49,5 @@ module.exports = async (client, message) => {
         if(!command) return
         await console.log(`[# ${message.channel.name}]  ${message.author.tag} (${message.author.id}): ${message?.content}`)
         command.run(client, message, args);
-    }catch(err){}
+    }catch(err){console.log(err)}
 }

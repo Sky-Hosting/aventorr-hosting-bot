@@ -8,8 +8,9 @@ module.exports = {
             new Discord.MessageEmbed()
             .setTitle(`Sky Hosting Links`)
             .setColor(`#677bf9`)
-            .addField("Website", "[Link](https://skyhosting.digital)", true)
-            .addField("Panel", "[Link](https://panel.skyhosting.digital)", true)
+            .addField("Website", "[Link](https://skyhosting.org)", true)
+            .addField("Uptime", "[Link](https://uptime.skyhosting.org)", true)
+            .addField("Panel", "[Link](https://panel.skyhosting.org)", true)
             .addField("Donate","[Link](https://ko-fi.com/skyhosting)", true)
         ]})
     }
