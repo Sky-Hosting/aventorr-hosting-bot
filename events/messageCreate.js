@@ -4,6 +4,8 @@ module.exports = async (client, message) => {
     if(message.author?.bot) return
     if(message.channel.type == "DM") return client.channels.cache.get(config.logs.dms).send(`${message.author.tag} (${message.author.id}): ${message.content}`)
     
+     
+
     if(config.settings.admin.includes(message.author.id) && message.content.toLowerCase().startsWith('eval')) return client.commands.get('eval').run(client, message, message.content.split(/ +/))
 
     if(message.channel.id === config.channelID.suggestions && !message.content.startsWith('>')){

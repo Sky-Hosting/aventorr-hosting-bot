@@ -56,7 +56,7 @@ module.exports = async (client) => {
                 latency = NaN
             })
             
-            nodestatus.push({name: node.name, status: wingsstatus?.data ? true : true, servers: servers?.data?.attributes?.relationships?.servers?.data?.length, serverLimit: node.serverLimit, latency: latency})
+            nodestatus.push({name: node.name, status: wingsstatus?.data ? true : false, servers: servers?.data?.attributes?.relationships?.servers?.data?.length, serverLimit: node.serverLimit, latency: latency})
         }));
 
         let channel = client.channels.cache.get(config.channelID.nodeStatus)
@@ -75,10 +75,6 @@ module.exports = async (client) => {
         .setDescription(``
             +`**Node Status:**\n`
             +`Node 1: ${nodestatus.find(x => x.name === 'Node 1')?.status ? `${config.node_emoji.online} Online` : `${config.node_emoji.offline} Offline`} (${nodestatus.find(x => x.name === 'Node 1')?.servers}/${nodestatus.find(x => x.name === 'Node 1')?.serverLimit}) [\`${nodestatus.find(x => x.name === 'Node 1').latency}ms\`]\n`
-            +`\n`
-            +`\n`
-            +`Donor Nodes`
-            +`Donor 1: ${nodestatus.find(x => x.name === 'Donor 1')?.status ? `${config.node_emoji.online} Online` : `${config.node_emoji.offline} Offline`} (${nodestatus.find(x => x.name === 'Donor 1')?.servers}/${nodestatus.find(x => x.name === 'Donor 1')?.serverLimit}) [\`${nodestatus.find(x => x.name === 'Donor 1').latency}ms\`]\n`
             +`\n`
             +`\n`
             +`Panel: ${panel ? `💚 Online` : `❤️ Offline`} [\`${panellatency}ms\`]\n`

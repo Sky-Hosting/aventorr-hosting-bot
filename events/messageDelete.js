@@ -1,7 +1,7 @@
 const config = require('../config.json');
 const Discord = require("discord.js")
 
-module.exports = (client, message) => {
+module.exports = (client, message, user) => {
 
     let data = {
         message: message.content,
@@ -23,7 +23,7 @@ module.exports = (client, message) => {
     message.content ? embed.addField(`Message Content`, message.content.includes('```') ? `${message.content}` : `\`\`\`\n${message.content}\`\`\``) : null
     message.attachments?.size !== 0 ? embed.setImage(message.attachments?.first()?.proxyURL) : null
     message.attachments?.size !== 0 ? content = message.attachments?.map(x => x?.proxyURL).join("\n") : content = null
-    embed.setFooter({ text: `${message.member.user.tag} (${message.member.user.id}) \nin #${message.channel.name}`, iconURL: message?.member?.user?.displayAvatarURL()});
+    embed.setFooter({ text: `${message.member.user.tag} (${message.member.user.id}) \nin #${message.channel.name}`});
     embed.setTimestamp()
     
 

@@ -1,0 +1,119 @@
+{
+    "externalPassword": "password3223",
+
+    "settings": {
+        "maintenance": false,
+        "nodeStatus": true,
+        "autoLeave": true,
+        "consoleSave": true,
+        "updateFromGithub": false,
+
+
+        "nodeStatusDelay": 60,
+        "vcUpdateInterval": 120,
+
+        "guildID": "",
+        "admin": [""],
+
+        "statusOnMaintenance": "On Maintenance mode",
+        
+        "interactions": {
+            "createTicket": true,
+            "developer": true,
+            "staff": true
+        }
+    },
+
+
+    "minimumaccage": "69 years",
+
+  
+    "antiraid": {
+        "maxmentions": 10,
+        "timeoutfor": 69696969
+    },
+
+    "logs":{
+        "dms": ""
+    },
+
+    "channelID": {
+        "legal":"",
+        "errorLog":"",
+        "welcome":"",
+        "bye":"",
+        "abuse": "",
+        "interactionsChannel": "",
+        "nodeStatus": "",
+        "suggestions": "",
+        "analyse": "",
+        "github": "",
+        "altDetection": "",
+        "raidmentions": "",
+        "botBooted": "",
+        "TRANSCRIPTSID": "",
+        "messages_managering": ""
+    },
+
+    "voiceID": {
+        "members": "",
+        "clients": "",
+        "servers": ""
+    },
+    "parentID": {
+        "createAccount": "",
+        "ticketParent": "",
+        "applyDeveloper": "",
+        "applyStaff": "",
+        "partnership": ""
+    },
+
+
+    "roleID": {
+        "staff": "",
+        "support": "",
+        "member": "",
+      	"betatester": "",
+        "client": "",
+        "administrator": "",
+        "everyone": "",
+        "donor": ""
+    },
+
+    "fastify": {
+        "port": 3016
+    },
+    
+    "nodes": [
+        {
+            "name": "Node 1",
+            "id": 1,
+            "serverLimit": 101,
+            "domain":"",
+            "port": 8443
+        }
+
+    ],
+    
+    "bot":{
+        "token": "",
+        "prefix": "!"
+    },
+
+    "pterodactyl": {
+        "myIp": "",
+        "host": "https://panel.skyhosting.org",
+        "adminApiKey": "",
+        "clientAPI":""
+    },
+    "nginxPM": {
+        "host": "",
+        "email": "",
+        "pass": ""
+    },
+
+    "node_emoji": {
+        "online": "🟢",
+        "offline": "🟠"
+    }
+}

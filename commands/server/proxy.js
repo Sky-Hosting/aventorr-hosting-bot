@@ -2,21 +2,23 @@ const Discord = require('discord.js');
 const config = require('../../config.json')
 const axios = require('axios')
 const { getDomainIP, proxyDomain, findProxy, deleteProxy } = require(`../../nginxPM/index`)
-
 module.exports = async (client, message, args) => {
-    
     let port
     let localdomain
     let serverid = args[1]
     let domain = args[2]
-    
+    const embed1 = new Discord.MessageEmbed()
+        .setColor('AQUA')
+        .setTitle('__**How to link a domain to your website/server**__')
+        .setDescription('`!server proxy <serverid> <domain> `')
+        .addField('DNS', 'You need to have a DNS Record pointing to \`45.77.144.67\`and If you are using Cloudflare that you ae using DNS Only mode.')
+        .addField('Free Domain', 'Do not have a Domain? Well you can use a free one from us' + '\n youdomainname.skyhosting.digital')
     if(
         !serverid ||
         !serverid?.split('-')[0] ||
         !domain ||
         domain.split('.').length === 1
-        
-    ) return message.channel.send(`:x: Incorrect command usage. Please run: \`!server proxy <server id> <your_domain.com>\``)
+    ) return message.reply({ embeds: [embed1] })
 
     let preoutput = (await axios({
         url: config.pterodactyl.host + "/api/application/users/" + userData.get(message.author.id).consoleID + "?include=servers",
@@ -79,7 +81,7 @@ module.exports = async (client, message, args) => {
     let proxyinfo = await proxyDomain(domain, localdomain, port)
 
     if(!proxyinfo.error){
-        msg.edit(`Your domain had been succesufuly proxied. Proxy id: ${proxyinfo.data.id}`)
+        msg.edit(` Your domain had been proxied. Proxy id: ${proxyinfo.data.id}`)
 
         let userDomains = domains.get(message.author.id) || []
 

@@ -16,10 +16,8 @@ module.exports = async (client) => {
     console.log(`${chalk.blue('[ Bot ]')} Logged in as: ${chalk.underline(client.user.tag)}`)
     console.log(`${chalk.blue('[ Bot ]')} Save Console: ${config.settings.consoleSave ? chalk.green('true') : chalk.red('false')}`)
     console.log(`${chalk.blue('[ Bot ]')} Node Status: ${config.settings.nodeStatus ? chalk.green('true') : chalk.red('false')}`)
-    console.log(`${chalk.blue('[ Bot ]')} Fastify host: ${config.settings.fastify ? chalk.green('true') : chalk.red('false')}`)
     console.log(`${chalk.blue('[ Bot ]')} Maintenance mode: ${config.settings.maintenance ? chalk.green('true ') : chalk.red('false')}`)
     console.log(`${chalk.blue('[ Bot ]')} Auto Leave Guilds: ${config.settings.autoLeave ? chalk.green('true') : chalk.red('false')}`)
-    console.log(`${chalk.blue('[ Bot ]')} Minecraft Port Checker: ${config.settings.McScript ? chalk.green('true') : chalk.red('false')}`)
     console.log(`${chalk.blue('[ Bot ]')} Update files from Github: ${config.settings.updateFromGithub ? chalk.green('true') : chalk.red('false')}`)
     console.log()
 
@@ -48,6 +46,7 @@ module.exports = async (client) => {
             })
         }, 30000)
     }
+
 
 
 
