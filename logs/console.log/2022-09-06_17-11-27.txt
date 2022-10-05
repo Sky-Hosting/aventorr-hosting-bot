@@ -1,0 +1,16 @@
+
+    
+          
+                                                                        |___/
+    
+[ Bot ] Logged in as: Sky Hosting#4458
+[ Bot ] Save Console: true
+[ Bot ] Node Status: true
+[ Bot ] Maintenance mode: false
+[ Bot ] Auto Leave Guilds: true
+[ Bot ] Update files from Github: false
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Name: Live Usage
+Refresh Time: 70 Seconds
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=

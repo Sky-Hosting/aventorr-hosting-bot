@@ -1,7 +1,6 @@
 const Discord = require('discord.js');
 const config = require(`./config.json`);
 const db = require('quick.db');
-//const fetch = require("node-fetch").default
 
 
 
@@ -18,11 +17,9 @@ global.domains = new db.table("ProxiedDomains");
 
 require(`./handlers/event_handler`)(client);
 require(`./handlers/command_handler`)(client);
-//require(`./handlers/Anti-crash`)(client);
 
 
 if(config.settings.consoleSave) require(`./logs/console.log`)();
-
 
 
 client.login(config.bot.token);

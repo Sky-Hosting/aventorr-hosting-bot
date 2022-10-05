@@ -1,5 +1,4 @@
 {
-    "externalPassword": "password3223",
 
     "settings": {
         "maintenance": false,
@@ -18,9 +17,9 @@
         "statusOnMaintenance": "On Maintenance mode",
         
         "interactions": {
-            "createTicket": true,
-            "developer": true,
-            "staff": true
+            "createTicket": false,
+            "developer": false,
+            "staff": false
         }
     },
 
@@ -88,11 +87,10 @@
         {
             "name": "Node 1",
             "id": 1,
-            "serverLimit": 101,
+            "serverLimit": 201,
             "domain":"",
-            "port": 8443
+            "port": 8080
         }
-
     ],
     
     "bot":{
@@ -102,7 +100,7 @@
 
     "pterodactyl": {
         "myIp": "",
-        "host": "https://panel.skyhosting.org",
+        "host": "",
         "adminApiKey": "",
         "clientAPI":""
     },

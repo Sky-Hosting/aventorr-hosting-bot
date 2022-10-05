@@ -1,4 +1,4 @@
-# PteroStats config
+ # PteroStats config
 
 
 
@@ -8,7 +8,7 @@ refreshtime: 70 # Time when the embed edited/refreshed (MUST BE A SECONDS) (RECO
 
 # Panel Info's
 panel:
-  url: 'https://panel.skyhosting.org' # Put panel url here. Example: https://panel.purenodes.net
+  url: 'https://' # Put panel url here. Example: https://panel.purenodes.net
   adminkey: '' # Put Admin Apikey here. check https://your.host.url/admin/api (your.host.url is an example link) to get the Admin ApiKey
 
 # Embed Configuration
@@ -33,7 +33,7 @@ status:
 resource:
   enable: true # Enable resource option ex [Ram: 2gb/5gb] bellow node name (MUST BE "true" OR "false")
   servers: true # Enable Total server on the node to resource text (MUST BE "true" OR "false")
-  allocations: false # Enable Total Allocation on the node to resource text (MUST BE "true" OR "false")
+  allocations: true # Enable Total Allocation on the node to resource text (MUST BE "true" OR "false")
   location: false # Enable location short name on the node to resource text (MUST BE "true" OR "false")
   unit: 'mb' # Must be 'mb', 'gb', or 'percent'
 

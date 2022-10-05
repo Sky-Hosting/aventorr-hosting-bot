@@ -1,0 +1,2025 @@
+
+    
+          
+                                                                        |___/
+    
+[ Bot ] Logged in as: Sky Hosting#4458
+[ Bot ] Save Console: true
+[ Bot ] Node Status: true
+[ Bot ] Maintenance mode: false
+[ Bot ] Auto Leave Guilds: true
+[ Bot ] Update files from Github: false
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Name: Live Usage
+Refresh Time: 70 Seconds
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 1 Non Games is down!
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Panel is down
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Debug] Error: getaddrinfo EAI_AGAIN panel.skyhosting.org Need Support? https://discord.gg/zv6maQRah3
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Debug] Error: getaddrinfo EAI_AGAIN panel.skyhosting.org Need Support? https://discord.gg/zv6maQRah3
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!
+[PteroStats Checker] Connected to 3 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Node 3- Beta is down!

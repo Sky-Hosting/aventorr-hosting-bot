@@ -11,6 +11,7 @@
   "dependencies": {
     "@fastify/cors": "^8.0.0",
     "@fastify/rate-limit": "^7.1.0",
+    "@pm2/io": "^5.0.0",
     "axios": "^0.27.2",
     "chalk": "^2.0.0",
     "child_process": "^1.0.2",

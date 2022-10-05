@@ -76,6 +76,10 @@ module.exports = async (client) => {
             +`**Node Status:**\n`
             +`Node 1: ${nodestatus.find(x => x.name === 'Node 1')?.status ? `${config.node_emoji.online} Online` : `${config.node_emoji.offline} Offline`} (${nodestatus.find(x => x.name === 'Node 1')?.servers}/${nodestatus.find(x => x.name === 'Node 1')?.serverLimit}) [\`${nodestatus.find(x => x.name === 'Node 1').latency}ms\`]\n`
             +`\n`
+          //  +`Node 2: ${nodestatus.find(x => x.name === 'Node 2')?.status ? `${config.node_emoji.online} Online` : `${config.node_emoji.offline} Offline`} (${nodestatus.find(x => x.name === 'Node 2')?.servers}/${nodestatus.find(x => x.name === 'Node 2')?.serverLimit}) [\`${nodestatus.find(x => x.name === 'Node 2').latency}ms\`]\n`
+            +`\n`
+          //  +`Node 3 Beta Node: ${nodestatus.find(x => x.name === 'Node 3')?.status ? `${config.node_emoji.online} Online` : `${config.node_emoji.offline} Offline`} (${nodestatus.find(x => x.name === 'Node 3')?.servers}/${nodestatus.find(x => x.name === 'Node 3')?.serverLimit}) [\`${nodestatus.find(x => x.name === 'Node 3').latency}ms\`]\n`
+            +`\n`
             +`\n`
             +`Panel: ${panel ? `💚 Online` : `❤️ Offline`} [\`${panellatency}ms\`]\n`
             +`\n`

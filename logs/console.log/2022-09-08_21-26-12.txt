@@ -1,0 +1,4426 @@
+
+    
+          
+                                                                        |___/
+    
+[ Bot ] Logged in as: Sky Hosting#4458
+[ Bot ] Save Console: true
+[ Bot ] Node Status: true
+[ Bot ] Maintenance mode: false
+[ Bot ] Auto Leave Guilds: true
+[ Bot ] Update files from Github: false
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Name: Live Usage
+Refresh Time: 70 Seconds
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[# 🤖┊bot-cmds]  The Amazon Guy👑#1834 (529305930387423244): !ping
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5499ms
+    Sublimit: 12000ms
+[ DISCORD ] Rate Limit for the next: 12s (12000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5017ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5035ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4961ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5105ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4957ms
+    Sublimit: 17000ms
+[ DISCORD ] Rate Limit for the next: 17s (17000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4331ms
+    Sublimit: 17000ms
+[ DISCORD ] Rate Limit for the next: 17s (17000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5089ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5105ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4984ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5081ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4854ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4883ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5094ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5105ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5082ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5068ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 3755ms
+    Sublimit: 17000ms
+[ DISCORD ] Rate Limit for the next: 17s (17000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4263ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4990ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5070ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4981ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5134ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5116ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5057ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5500ms
+    Sublimit: 8000ms
+[ DISCORD ] Rate Limit for the next: 8s (8000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4936ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5081ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4701ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5046ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5103ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5137ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5089ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5037ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5156ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4981ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5080ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5016ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5125ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5054ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5173ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5096ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5177ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5166ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5076ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5052ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5109ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5055ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5124ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5061ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5114ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5111ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5120ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5145ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5500ms
+    Sublimit: 4000ms
+[ DISCORD ] Rate Limit for the next: 4s (4000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 3154ms
+    Sublimit: 16000ms
+[ DISCORD ] Rate Limit for the next: 16s (16000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5060ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4882ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5124ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4930ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5139ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5094ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 4991ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5034ms
+    Sublimit: 18000ms
+[ DISCORD ] Rate Limit for the next: 18s (18000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[ DISCORD ] Hit a 429 while executing a request.
+    Global  : false
+    Method  : patch
+    Path    : /channels/960981034743267428/messages/1016810911366926336
+    Route   : /channels/960981034743267428/messages/:id
+    Limit   : 5
+    Timeout : 5500ms
+    Sublimit: 4000ms
+[ DISCORD ] Rate Limit for the next: 4s (4000ms)
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
+[PteroStats Checker] Connected to 2 nodes
+[PteroStats Checker] Posted Stats
+[PteroStats Checker] Stats Updated
+[PteroStats Checker] Updating Stats in 70 Seconds
